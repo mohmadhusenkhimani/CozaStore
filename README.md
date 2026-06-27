@@ -68,9 +68,9 @@ COZA-Store/
 
 ---
 
-## 📸 Preview
+## 🌐 Live Preview
 
-*()
+🔗 **Live Website:** https://mohmadhusenkhimani.github.io/CozaStore/
 
 ---
 
