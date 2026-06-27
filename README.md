@@ -1,29 +1,89 @@
-Welcome to my COZA Store template! 🧑‍💻
+# 🛍️ COZA Store – E-Commerce UI Clone
 
-This is a beginner-friendly and fully responsive e-commerce website layout built using only **HTML5** and **CSS3** – no JavaScript, no frameworks, just pure front-end fundamentals! 🎯
+This project is a front-end clone of the **COZA Store** e-commerce website, created to strengthen my HTML and CSS skills during my web development learning journey.
 
-✨ Features:
-- Clean & modern homepage layout 🧼
-- Responsive product grid 📱💻
-- Simple header & footer design 🚀
-- Static sections like Featured Items, Categories, and Offers 🔖
-- Ideal for beginners to practice HTML/CSS project structure 💡
-
-📂 Folder Structure:
-- `index.html`
-- `style.css`
-- `images/` folder for assets
-
-🔧 Tools Used:
-- HTML5
-- CSS3
-- Google Fonts
-- Font Awesome Icons (optional)
-
-💡 **Goal**: Practice structuring real-world eCommerce UIs using just HTML & CSS.
+The project focuses entirely on building a clean and modern user interface using only HTML5 and CSS3 without JavaScript or backend functionality.
 
 ---
 
-⭐ Feel free to fork this repo, use it in your portfolio, or expand it with JavaScript and backend support!
+## 🚀 Features
 
-🔗 Deployed Version: *Coming Soon* (or replace with your GitHub Pages link if hosted)
+- 🏠 Modern e-commerce homepage
+- 🛒 Product showcase layout
+- 🧭 Navigation bar
+- 🎨 Clean and attractive UI
+- 📦 Product cards
+- 🖼️ Hero banner section
+- 📄 Multiple static pages (Home, Shop, Features, Blog, About, Contact)
+- 💻 Desktop-first design
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Google Fonts
+- Font Awesome Icons
+
+---
+
+## 📌 Project Purpose
+
+The objective of this project was to practice:
+
+- Semantic HTML
+- CSS Layouts
+- Flexbox
+- CSS Positioning
+- Typography
+- UI Design
+- Website Structuring
+
+This project is intended for **learning and design practice only**.
+
+---
+
+## ⚠️ Limitations
+
+- No JavaScript functionality
+- No backend integration
+- No database
+- No authentication
+- No payment system
+- Not responsive (Desktop UI only)
+
+---
+
+## 📂 Folder Structure
+
+```
+COZA-Store/
+│── index.html
+│── css/
+│── images/
+│── fonts/
+│── README.md
+```
+
+---
+
+## 📸 Preview
+
+*()
+
+---
+
+## 🎯 Learning Outcome
+
+Through this project, I improved my understanding of:
+
+- HTML page structure
+- CSS styling
+- Layout design
+- Component organization
+- Building real-world website interfaces
+
+---
+
+⭐ This project is part of my web development learning journey before transitioning to full-stack MERN development.
